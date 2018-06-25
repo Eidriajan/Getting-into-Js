@@ -1,6 +1,7 @@
+# Getting-into-Js
 
-Getting into Js.
+Learning the ways of the code.. and Github! :D
 
-This is a way to explain how i am learning JavaScript.
+If you have any suggestion it would be great!
 
-And how my knowledge in the ways of the code is growing..
+GLHF
